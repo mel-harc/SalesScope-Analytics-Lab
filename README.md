@@ -66,16 +66,6 @@ graph TB
     E --> H[🔍 Database Management]
     
     G --> I[📈 Business Insights]
-    
-    style A fill:#e1f5fe
-    style B fill:#fff3e0
-    style C fill:#f3e5f5
-    style D fill:#e8f5e8
-    style E fill:#fff8e1
-    style F fill:#fce4ec
-    style G fill:#e0f2f1
-    style H fill:#f1f8e9
-    style I fill:#e8eaf6
 ```
 
 </div>
@@ -525,7 +515,7 @@ docker-compose ps
 <summary>📧 <strong>Support & Contact</strong></summary>
 
 For questions, issues, or contributions:
-- 📧 Email: mel.harc@gmail.com
+- 📧 Email: mohammedelharchi822@gmail.com
 - 🐛 Issues: Create an issue in this repository
 - 💡 Features: Submit a pull request
 
@@ -544,4 +534,7 @@ For questions, issues, or contributions:
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue.svg)
 ![Python](https://img.shields.io/badge/Analytics-Python-green.svg)
 
+</div>
+<div align="center">
+⭐⭐ mel-harc ⭐⭐
 </div>
